@@ -1,5 +1,3 @@
-# Disaster-Risk-And-Redressal-Management
-
 # **Disaster Risk and Redressal Management System (DRRMS)**
 
 ## **Overview**
