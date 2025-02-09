@@ -1,5 +1,7 @@
 # **Disaster Risk and Redressal Management System (DRRMS)**
 
+This project was developed as part of the course Database Management Systems in the Bachelor of Engineering in Information Technology in 2022. It was a collaborative effort by a team of two members, aiming to develop a browser-based disaster management system that allows users to report disaster-related incidents and enables authorities to take timely action.
+
 ## **Overview**
 The **Disaster Risk and Redressal Management System (DRRMS)** is a browser-based application designed to mitigate disaster risks and facilitate emergency response. The system enables users to report disaster-related incidents by registering complaints and provides administrators with tools to assign response teams effectively. The goal is to improve communication between affected individuals and authorities, ensuring timely intervention.
 
